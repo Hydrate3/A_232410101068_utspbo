@@ -1,0 +1,22 @@
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\uts new.exe
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\uts new.deps.json
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\uts new.runtimeconfig.json
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\uts new.dll
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\uts new.pdb
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\windog\source\repos\uts new\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.csproj.AssemblyReference.cache
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts_new.Form1.resources
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.csproj.GenerateResource.cache
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.AssemblyInfoInputs.cache
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.AssemblyInfo.cs
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.csproj.CoreCompileInputs.cache
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.csproj.Up2Date
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.dll
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\refint\uts new.dll
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.pdb
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts new.genruntimeconfig.cache
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\ref\uts new.dll
+C:\Users\windog\source\repos\uts new\obj\Debug\net8.0-windows\uts_new.halaman_kontak.resources
